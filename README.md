@@ -1,6 +1,6 @@
 <div align="center">
 
-# MIguel Automate - Contractor Services
+# Miguel Automate presents Contractor Services
 
 ![Version](https://img.shields.io/badge/version-1.0--release-orange)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
