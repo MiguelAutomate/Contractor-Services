@@ -17,7 +17,7 @@
 
 ## 🚀 Executive Summary
 
-**MIguel Automate - Contractor Services** is an all-in-one automation ecosystem for **general contractors, remodelers, and specialty trades**. It eliminates tedious admin work with intelligent, secure, and bilingual workflows — connecting **lead generation, cold email, SMS outreach/translation, invoicing, and incident logs** so you can focus on delivering projects.
+**Miguel Automate - Contractor Services** is an all-in-one automation ecosystem for **general contractors, remodelers, and specialty trades**. It eliminates tedious admin work with intelligent, secure, and bilingual workflows — connecting **lead generation, cold email, SMS outreach/translation, invoicing, and incident logs** so you can focus on delivering projects.
 
 **Core Impact**
 - 💰 **20–40% increase in project revenue**
@@ -157,5 +157,5 @@ Contractors lose money and time due to:
 </div>
 
 <div align="center">
-<small>© 2025 MIguel Automate | Contractor Services | All Rights Reserved</small>
+<small>© 2025 Miguel Automate | Contractor Services | All Rights Reserved</small>
 </div>
