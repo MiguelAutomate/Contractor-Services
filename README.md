@@ -4,7 +4,7 @@
 
 ![Version](https://img.shields.io/badge/version-1.0--release-orange)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
-![Platform](https://img.shields.io/badge/Automation-n8n%20%2B%20LLM-brightgreen)
+![Platform](https://img.shields.io/badge/Automation-n8n%20%2B%20python-brightgreen)
 ![Industry](https://img.shields.io/badge/Industry-Construction-blue)
 ![ROI](https://img.shields.io/badge/ROI-200--400%25-success.svg)
 [![Visit](https://img.shields.io/badge/Visit-miguelautomate.com-black)](https://miguelautomate.com)
